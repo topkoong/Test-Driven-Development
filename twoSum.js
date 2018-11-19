@@ -9,3 +9,5 @@ const twoSum = (numbers, target) => {
     }
     return [];
 }
+
+module.exports = twoSum;
